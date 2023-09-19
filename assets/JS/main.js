@@ -1,0 +1,1 @@
+window.alert("Hello it is Alert");
